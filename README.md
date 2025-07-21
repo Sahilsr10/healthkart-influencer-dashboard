@@ -4,6 +4,10 @@ This project is an open-source dashboard built to help HealthKart track, visuali
 
 # Influencer Marketing ROI Dashboard
 
+🚀 Live Demo
+You can view and interact with the live dashboard here:
+https://p7mwzh-3000.csb.app/ 
+
 A comprehensive open-source dashboard for tracking, visualizing, and analyzing the return on investment (ROI) of influencer marketing campaigns. Built specifically for HealthKart to empower data-driven marketing decisions and optimize influencer partnerships.
 
 ## 🚀 Features
