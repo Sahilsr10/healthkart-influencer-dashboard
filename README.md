@@ -10,6 +10,11 @@ https://p7mwzh-3000.csb.app/
 
 A comprehensive open-source dashboard for tracking, visualizing, and analyzing the return on investment (ROI) of influencer marketing campaigns. Built specifically for HealthKart to empower data-driven marketing decisions and optimize influencer partnerships.
 
+<img width="1656" height="901" alt="Screenshot 2025-07-22 at 7 10 56 PM" src="https://github.com/user-attachments/assets/8dd24967-91bc-4c5c-8ee8-564300d0b5c9" />
+
+<img width="1653" height="577" alt="Screenshot 2025-07-22 at 7 11 10 PM" src="https://github.com/user-attachments/assets/71ba992f-9b24-424f-8ec2-fc465d1361f1" />
+
+
 ## 🚀 Features
 
 - **📊 Comprehensive Analytics**: Single-pane dashboard with key metrics including total revenue, spend, incremental ROAS, and order tracking
